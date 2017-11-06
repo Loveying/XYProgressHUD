@@ -9,6 +9,7 @@
 #import "ViewController.h"
 #import "MBProgressHUD.h"
 #import "MBProgressHUD+XY.h"
+#import <Foundation/Foundation.h>
 @interface ViewController ()
 
 @end
